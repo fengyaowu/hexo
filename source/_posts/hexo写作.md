@@ -20,6 +20,7 @@ categories: github
  ```
  ## 标签
  文章中添加标签
+ <!--more-->
  ```
  title: 标签测试文章
  tags:
