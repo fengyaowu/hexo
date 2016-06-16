@@ -48,7 +48,15 @@ menu:
 ```
  ### 添加图片
  在source文件夹下新建目录img,文章中使用到图片是使用`![](/img/Penguins.jpg)`格式插入。
- 
+ ### 代码高亮
+```js
+  from import 
+  class Person {
+    window.addEventListener('load', function() {
+  console.log('window loaded');
+});
+  }
+```
  ## 相关链接
  [hexo 官方文档](https://hexo.io/zh-cn/docs/commands.html)
  [hexo github 搭建](http://kiya.space/2015/11/10/use-Github-Pages-Hexo-duoshuo-to-set-up-a-blog-basic-steps/)
