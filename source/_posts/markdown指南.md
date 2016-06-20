@@ -25,7 +25,7 @@
 
 > *朝辞*白帝彩云间
 >**千里**江陵一日还
-
+<!--more-->
 #### 表格
 ![][1]
 [1]: http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1

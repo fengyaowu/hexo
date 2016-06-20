@@ -5,7 +5,7 @@ tags:
 categories: github
 ---
 # github 上搭建hexo博客更换域名
-博客主页网址默认问username.github.io,下面记录跟换域名的过程。
+博客主页网址默认为username.github.io,下面记录跟换域名的过程。
 # 购买域名
 便宜的4块钱第一年。
 [新网网址](http://www.xinnet.com/)
